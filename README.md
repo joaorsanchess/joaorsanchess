@@ -1,9 +1,10 @@
 ### Olá, pessoal! Meu nome é [João Sanches](https://www.linkedin.com/in/jo%C3%A3o-sanches-339219237/) 👋  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Iniciando minha jornada no mundo da programação  
-📚 Atualmente aprendendo **lógica de programação, Python e SQL**  
-🚀 Objetivo: me desenvolver como **Back-End Developer**  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+- 🔐 Foco em **Cibersegurança**: Linux, redes, criptografia, ferramentas como Wireshark e Nmap  
+- 🤖 Foco em **IA/ML**: Python, SQL, TensorFlow, PyTorch, Scikit-learn, Pandas  
+- 📊 Experiência prévia de +10 anos em **liderança e gestão de processos**  
+- 📍 São Paulo, Brasil  
 
 ---
 
