@@ -13,10 +13,18 @@ Agora, meu foco é na área de tecnologia, construindo bases sólidas para atuar
 
 ---
 
-## 🛠️ Tecnologias em aprendizado
-- **Linguagens:** Python, Java, SQL  
-- **Fundamentos:** Lógica de programação, Estruturas de Dados, Orientação a Objetos  
-- **Ferramentas:** Git e GitHub  
+## 🛠️ Tecnologias em aprendizado  
+- **Linguagens:** Python, SQL, JavaScript/TypeScript  
+- **IA/ML:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
+- **Cibersegurança:** Linux, Redes TCP/IP, Wireshark, Nmap, Criptografia  
+- **Cloud & DevOps:** Docker, Git/GitHub, AWS (básico)
+
+---
+
+## 📌 Objetivos neste perfil  
+1. Compartilhar projetos de **Inteligência Artificial aplicada**  
+2. Praticar e documentar laboratórios de **Cibersegurança**  
+3. Criar um portfólio que una **inovação tecnológica e segurança digital**  
 
 ---
 
